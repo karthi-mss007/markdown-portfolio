@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- [ ] list 1 :heart:
+- [ ] list 2 :+1:
+- [x] list 3 :smile:
+- [ ] list 4 :sparkles:
+ - [ ] list 4.1 :tada:
+ - [ ] list 4.2
